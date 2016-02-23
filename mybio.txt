@@ -1,1 +1,3 @@
 Hello, my name is Ben Schuster. I am a postdoc at UPenn.
+I like science.
+Programming is fun.
